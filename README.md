@@ -7,7 +7,7 @@ personal portfolio
 To set up the project locally, follow these steps:
 
 Clone the Repository:
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/Atir-786/personal-bookshelf.git
 
 Navigate to the Project Directory:
 cd your-repository-name
